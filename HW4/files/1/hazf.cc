@@ -1,0 +1,1 @@
+auto multiplyByFactor = [factor](int x) -> int {return x * factor;};
